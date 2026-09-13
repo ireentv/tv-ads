@@ -4,14 +4,64 @@
   "midRollIntervalMinutes": 30,
   "adList": [
     {
-      "id": "ad1",
+      "id": "ad_01",
+      "title": "Ireen TV Official HD Stream",
       "videoUrl": "https://ireentvlive.pages.dev/promo/master.m3u8",
       "clickUrl": "https://ireentvhd.pages.dev/"
     },
     {
-      "id": "ad2",
-      "videoUrl": "https://example.com/ads/sponsor_stream.mp4",
-      "clickUrl": "https://facebook.com/yourpage"
+      "id": "ad_02",
+      "title": "Exclusive Sports Live Match",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_03",
+      "title": "Special Sponsor Promotion",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_04",
+      "title": "HD Entertainment Promo",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyBlazes.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_05",
+      "title": "Brand Partner Ad 1",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_06",
+      "title": "Brand Partner Ad 2",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_07",
+      "title": "Live Cricket & Football Alert",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_08",
+      "title": "Special Offer Announcement",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_09",
+      "title": "Commercial Sponsor Video",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad_10",
+      "title": "Ireen TV Community Join Us",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "clickUrl": "https://ireentvhd.pages.dev/"
     }
   ]
 }
