@@ -1,0 +1,17 @@
+{
+  "adsEnabled": true,
+  "skipDurationSeconds": 5,
+  "midRollIntervalMinutes": 30,
+  "adList": [
+    {
+      "id": "ad1",
+      "videoUrl": "https://ireentvlive.pages.dev/promo/master.m3u8",
+      "clickUrl": "https://ireentvhd.pages.dev/"
+    },
+    {
+      "id": "ad2",
+      "videoUrl": "https://example.com/ads/sponsor_stream.mp4",
+      "clickUrl": "https://facebook.com/yourpage"
+    }
+  ]
+}
