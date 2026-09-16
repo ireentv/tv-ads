@@ -1,5 +1,5 @@
 {
-  "adsEnabled": false,
+  "adsEnabled": true,
   "skipDurationSeconds": 10,
   "midRollIntervalMinutes": 30,
   "adList": [
